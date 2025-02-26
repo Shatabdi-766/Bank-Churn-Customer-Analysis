@@ -38,6 +38,14 @@ By analyzing customer demographics, account details, and behavioral patterns, we
 - Google Colab
 - Machine Learning Models (Logistic Regression, Random Forest,K-Means Clustering etc.)
 
+## 📂 Datasets  
+
+The dataset used in this project is available in **Excel (.xlsx)** and **CSV (.csv)** formats.  
+🔗 ** [here](./)**  
+
+### 📊 Data Overview  
+- **Customer Demographics:** Age, gender, location, and estimated salary.  
+- **Account Information:** Account balance, tenure, number of products, credit card usage, and churn status.  
 
 
 
