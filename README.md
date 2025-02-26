@@ -54,7 +54,7 @@ The dataset used in this project is available in the following formats:
 ## Visualization Sample:
 
 ### Basic Sample:
-![Exited Trend](https://raw.githubusercontent.com/your-username/your-repository/main/churn_rate.png)
+![Exited Trend](/.download (11).png)
 
 ### 📉 **Exited (Churn Rate Trend)**  
 **Description:**  
