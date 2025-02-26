@@ -49,12 +49,10 @@ The dataset used in this project is available in the following formats:
 - **Customer Demographics:** Age, gender, location, and estimated salary.  
 - **Account Information:** Account balance, tenure, number of products, Is Active Member, credit card usage, and churn status.
 
-## Visualization Sample :
-
 ## Visualization Sample:
 
 ### Basic Sample:
-![Exited Trend](/.download (11).png)
+![Exited Trend](https://raw.githubusercontent.com/Shatabdi-766/Bank-Churn-Customer-Analysis/main/download%20(11).png)
 
 ### 📉 **Exited (Churn Rate Trend)**  
 **Description:**  
@@ -67,28 +65,9 @@ The dataset used in this project is available in the following formats:
 ✅ Investigate key reasons for churn (e.g., poor service, lack of engagement).  
 ✅ Implement retention strategies like personalized offers or loyalty programs to reduce churn.  
 
-![Geography Analysis](https://raw.githubusercontent.com/your-username/your-repository/main/geography_chart.png)
+![Geography Analysis](https://raw.githubusercontent.com/Shatabdi-766/Bank-Churn-Customer-Analysis/main/download%20(15).png)
 
-### 🌍 **Geography-Based Analysis**  
-**Description:**  
-- A bar chart comparing values for **France, Spain, and Germany**, ranging from **0.00 to 0.35**.  
 
-**Insights:**  
-- **France**: Highest value (~0.35).  
-- **Spain**: Moderate (~0.20).  
-- **Germany**: Lowest (~0.10).  
-
-**🔍 Actionable Insights:**  
-✅ Focus on **reducing churn or improving satisfaction** in France.  
-✅ Identify and **replicate successful strategies from Germany** in other regions.  
-
-![image](https://github.com/user-attachments/assets/0f6b2a2a-d213-4fad-b360-d23fe7c4db37)
-![image](https://github.com/user-attachments/assets/5688b797-8ac9-439a-91bd-3692edbfc223)
-![image](https://github.com/user-attachments/assets/915f4237-da59-463a-91c7-e52967d001ca)
-![image](https://github.com/user-attachments/assets/c161d397-b82d-43fb-8cc1-2d0180e401fe)
-![image](https://github.com/user-attachments/assets/31e56c84-5bec-4638-9592-19df2ac436ca)
-![image](https://github.com/user-attachments/assets/3cf5083e-6559-4a02-bfc7-43c6e78739b2)
-![image](https://github.com/user-attachments/assets/e9e53e39-7a6d-4b81-8649-99439332c504)
 
 ### Classification Sample :
 ![image](https://github.com/user-attachments/assets/78de9a86-7c7c-49eb-bcee-b0df631e8967)
