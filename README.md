@@ -51,8 +51,10 @@ The dataset used in this project is available in the following formats:
 
 ## Visualization Sample :
 
-### Basic Sample :
-![image](https://github.com/user-attachments/assets/b4ee90c1-5964-469a-a85d-8465a6dfc222)
+## Visualization Sample:
+
+### Basic Sample:
+![Exited Trend](https://raw.githubusercontent.com/your-username/your-repository/main/churn_rate.png)
 
 ### 📉 **Exited (Churn Rate Trend)**  
 **Description:**  
@@ -65,7 +67,7 @@ The dataset used in this project is available in the following formats:
 ✅ Investigate key reasons for churn (e.g., poor service, lack of engagement).  
 ✅ Implement retention strategies like personalized offers or loyalty programs to reduce churn.  
 
-![image](https://github.com/user-attachments/assets/983b6e24-bf8f-4c7f-aa85-30df04b5d2a1)
+![Geography Analysis](https://raw.githubusercontent.com/your-username/your-repository/main/geography_chart.png)
 
 ### 🌍 **Geography-Based Analysis**  
 **Description:**  
