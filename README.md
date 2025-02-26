@@ -687,7 +687,7 @@ This optimization led to a **more balanced model**, reducing overfitting while m
 
 ![Customer-Segment-Recommand](https://raw.githubusercontent.com/Shatabdi-766/Bank-Churn-Customer-Analysis/main/images/download%20(4).png)
 
-# Customer Segmentation Analysis
+# Customer Segmentation Analysis (Round-02)
 
 ## Customer Segments
 
